@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rene Hürtgen</h1>
+<h1 align="center">Hi 👋, I'm Rene</h1>
 <h3 align="center">A dual student from Bosch</h3>
 
 - 🔭 I’m currently working on **A Deep Learning Approach for agricultur plant height estimation**
